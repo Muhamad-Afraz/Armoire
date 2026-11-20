@@ -1,0 +1,19 @@
+
+> ai-wardrobe@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.29
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.100.199:3001
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.6s
+   ▲ Next.js 15.5.29
+   - Local:        http://localhost:3001
+   - Network:      http://192.168.100.199:3001
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.7s
+   Reload env: .env.local
